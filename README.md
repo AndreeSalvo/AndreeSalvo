@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Intro to Structual Database Enviorments Labs](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Intro to Structual Database Enviorments Labs][(https://github.com/AndreeSalvo/Analyzing-DatabasesLAB/tree/main]
 
 <h2>📜 Certifications:</h2>
 

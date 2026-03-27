@@ -10,4 +10,4 @@
 - [Security Assessment and Auditing ](https://github.com/AndreeSalvo/Wireless-Networks-Vulnerability-Scanning)
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://www.linkedin.com/in/andreesalvo-/
+[linkedin]: https://www.linkedin.com/in/andreeysalvo
